@@ -2,6 +2,9 @@
 
 <h2 align="left">About Me</h2>
 
+
+<p>My name is Silas R Pereira, I am currently a Bachelor's student in Information Systems at the Federal Rural University of Pernambuco - UFRPE, I currently work as a DataCenter Analyst at the company Claro Nextel SA, I develop academic projects in the course subjects applying the knowledge learned inside and outside of the classroom. I am looking for vacancies in the WEB and/or Mobile development area in the near future.</p>
+
 ###
 
 <p align="left">- Student in Information Systems at@UFRPE<br>- DataCenter Analyst at@Claro SA</p>
